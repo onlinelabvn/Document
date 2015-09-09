@@ -1,9 +1,11 @@
+=================================
 Giới thiệu
-**********
+=================================
 Graylog (formerly known as Graylog2) is an open source log management platform, helps you to collect, index and analyze any machine logs on a centralized location. This guide helps you to install Graylog2 on Ubuntu 14.04, also focus on installation of four other components that makes Graylog2 a power full log management tool.
 
+=================================
 Giới thiệu các thành phần
-*************************
+=================================
 
 1. MongoDB – Stores the configurations and meta information.
 
